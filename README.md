@@ -12,14 +12,10 @@ to study the C language, at the time I already understood how technologies used 
 I learned how softwares were made. I decide to specialize in web development at the end of 2021, learning HTML, CSS, JavaScript and following the banck-end specialization
 path using Express, TypeScript and NodeJS.
 
-
-### Extra:
-1. Atualmente trabalhando em projetos com Html, CSS e JavaScript.
-
 <br />
 <h2>My skill's</h2>
 <p>
-   <img src="https://simpleskill.icons.workers.dev/svg?i=react,styledcomponents,typescript,javascript,html5,css3" />
+   <img src="https://simpleskill.icons.workers.dev/svg?i=javascript,html5,css3" />
 </p>
 <p>
    <img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" alt="nodejs" width="50" height="50"/>
