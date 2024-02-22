@@ -5,12 +5,10 @@ Full-stack Developer
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Rocha-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-rocha-6b8b572b4/-b946131a5/)](https://www.linkedin.com/in/arthur-rocha-6b8b572b4/) 
 [![Gmail Badge](https://img.shields.io/badge/-arthurrochadeveloper@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurrochadeveloper@gmail.com)](mailto:arthurrochadeveloper@gmail.com)
 
-Hello, my name is Lucas, or you can call me Munhoz which is my surname.
+Hello, my name is Arthur, or you can call me Rocha which is my surname.
 
-Passionate about web development, programming, softwares, how software works, how it is made and also passionate about games. In 2020 I decided
-to study the C language, at the time I already understood how technologies used to work, but I was still wondering myself what I would do for living, it was at that time
-I learned how softwares were made. I decide to specialize in web development at the end of 2021, learning HTML, CSS, JavaScript and following the banck-end specialization
-path using Express, TypeScript and NodeJS.
+Apaixonado por desenvolvimento de softwares, desenvolvimento web, como um software funciona, como ele é feito e também apaixonado por games. Em 2021 eu tive meu primeiro contato com programação, começei estudar os fundamentos básicos da programação com a linguagem C e avançei os estudos com C# desenvolvendo alguns projetos simples como calculadora e uma tela de cadastro de cursos. Foi um grande passo na minha vida pra abri minha mente e escolher um curso superior. Atualmente estou prestes a começar os estudos no curso superior Bacharelado Ciência da Computação na Estácio, onde pretendo me entrosar e me dedicar cada vez mais no mundo da tecnologia. Contudo, estudo constantemente no alcance de me tornar Desenvolvedor Full Stack, tenho habilidades em HTML5, CSS3, JavaScript, React.js. Com foco em aprender Bootstrap5, Jquery, Angular, PHP, Ajax e Mysql.
+
 
 <br />
 <h2>My skill's</h2>
