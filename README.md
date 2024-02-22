@@ -13,7 +13,7 @@ Apaixonado por desenvolvimento de softwares, desenvolvimento web, como um softwa
 <br />
 <h2>My skill's</h2>
 <p>
-   <img src="https://simpleskill.icons.workers.dev/svg?i=javascript,html5,css3" />
+   <img src="https://simpleskill.icons.workers.dev/svg?i=javascript,react,html5,css3" />
 </p>
 <p>
    <img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" alt="nodejs" width="50" height="50"/>
