@@ -19,8 +19,6 @@ path using Express, TypeScript and NodeJS.
 </p>
 <p>
    <img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" alt="nodejs" width="50" height="50"/>
-   <img src="https://api.iconify.design/skill-icons:java-dark.svg" alt="java" width="50" height="50"/>
-   <img src="https://api.iconify.design/skill-icons:python-dark.svg" alt="python" width="50" height="50"/>
 </p>
 
 <br />
