@@ -2,8 +2,8 @@
 
 Full-stack Developer
 
-[![Linkedin Badge]() 
-[![Gmail Badge]()
+[![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Rocha-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-rocha-6b8b572b4/-b946131a5/)](https://www.linkedin.com/in/arthur-rocha-6b8b572b4/) 
+[![Gmail Badge](https://img.shields.io/badge/-arthurrochadeveloper@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurrochadeveloper@gmail.com)](mailto:arthurrochadeveloper@gmail.com)
 
 Hello, my name is Lucas, or you can call me Munhoz which is my surname.
 
@@ -14,14 +14,7 @@ path using Express, TypeScript and NodeJS.
 
 
 ### Extra:
-1. Actually working on projects with TypeScript, React and Styled Components
-2. Used to study and develop back-end with NodeJS
-3. Tech's i've already used:
-   - Several NodeJS back-end projects with Express, Fastfy and NestJs
-   - Small microsservices projects with Java and SpringBoot
-   - A CRUD project with C# and ASP.Net
-   - Python notebooks applying Machine Learning algorithms in datas from Kaggle
-   - Some Data Science Workflows and a small project for a company
+1. Atualmente trabalhando em projetos com Html, CSS e JavaScript.
 
 <br />
 <h2>My skill's</h2>
@@ -37,7 +30,7 @@ path using Express, TypeScript and NodeJS.
 <br />
 <h2>Latest activities</h2>
 <div>
-  <a href="https://github.com/munhoz2k">
+  <a href="https://github.com/arthurrochx">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=munhoz2k&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munhoz2k&layout=compact&langs_count=7&theme=dark"/>
 </div>
