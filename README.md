@@ -11,7 +11,7 @@ Prazer, me chamo Arthur Rocha e sou Desenvolvedor de Software.
 <br />
 <h2>My skill's</h2>
 <p>
-   <img src="https://simpleskill.icons.workers.dev/svg?i=javascript,html5,css3" />
+   <img src="https://simpleskill.icons.workers.dev/svg?i=javascript,html5,css3,c#" />
 </p>
 <p>
  <!!--  <img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" alt="" width="50" height="50"/> 
