@@ -1,6 +1,6 @@
-# Bem-vindo(a)! Prazer, sou o Arthur Rocha e sou Desenvolvedor de Software e Desenvolvedor Web.
+# Bem-vindo(a)! Prazer, sou o Arthur Rocha
 
-Full-stack Developer
+Full-stack Developer | Software Developer | Web Developer
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurrochx/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-rocha-6b8b572b4/)
