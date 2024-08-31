@@ -7,6 +7,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurrochx/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-rocha-6b8b572b4/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@arthurrochx)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vKRe6BEU2E)
+
 ##
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurrochx&show_icons=true&theme=transparent)
 
@@ -28,4 +30,8 @@
 <br/>
 <div>
   <a href="https://github.com/arthurrochx">
+</div>
+
+<div>
+  <a href = "mailto:arthurrochadeveloper@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
