@@ -9,13 +9,14 @@ Full-stack Developer
 
 
 <br />
-<h2>My skill's</h2>
-<p>
-   <img src="https://simpleskill.icons.workers.dev/svg?i=javascript,html5,css3,c#" />
-</p>
-<p>
- <!!--  <img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" alt="" width="50" height="50"/> 
-</p>
+## 🤹 As principais tecnológias que domino:
+
+<div style="display: inline-block">
+  <img align="center" alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="WordPress" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+</div>
 
 <br />
 <div>
