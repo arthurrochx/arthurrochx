@@ -28,9 +28,8 @@
 ##
 
 <br/>
-<div>
-  <a href="https://github.com/arthurrochx">
-</div>
+    
+## Contact
 
 <div>
   <a href = "mailto:arthurrochadeveloper@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
