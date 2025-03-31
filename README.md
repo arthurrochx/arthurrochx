@@ -1,6 +1,6 @@
 # Bem-vindo(a)! Prazer, sou o Arthur Rocha
 
-🥷🏾 Full-stack Developer | Software Developer | Web Developer
+🥷🏾 Estudante de programação, cursando Ciência da computação
 
 ##
 
