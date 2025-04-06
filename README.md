@@ -1,6 +1,6 @@
 # Welcome! Nice to meet you, I'm Arthur Rocha
 
-Full-stack software developer
+Full-stack Software Developer
 
 ##
 
