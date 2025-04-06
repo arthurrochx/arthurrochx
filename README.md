@@ -1,6 +1,6 @@
-# Bem-vindo(a)! Prazer, sou o Arthur Rocha
+# Welcome! Nice to meet you, I'm Arthur Rocha
 
-🥷🏾 Estudante de programação, cursando Ciência da computação
+Full-stack software developer
 
 ##
 
